@@ -2,6 +2,7 @@
     -> Find the minimum spanning tree T(V, E'). Display the cost adjacency matrix of "T".
     -> Display total cost of the minimum spanning tree T.
 Note #Nodes will be numbered consecutively from 1 to n(user input), and edges will have varying weight.The graph G can be read from an input file “inUnAdjMat.dat” that contains cost adjacency matrix.The expected output could be displayed as the cost adjacency matrix of the minimum spanning tree and total cost of the tree.
+
 */
 #include <stdio.h>
 #include <stdlib.h>
