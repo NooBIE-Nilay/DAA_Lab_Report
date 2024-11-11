@@ -6,6 +6,7 @@ Note #Nodes will be numbered consecutively from 1 to n(user input), and edges wi
 */
 #include <stdio.h>
 #include <stdlib.h>
+#include <limits.h>
 
 typedef struct
 {

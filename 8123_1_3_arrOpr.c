@@ -1,4 +1,4 @@
-/* Aim of the program: Write a program to read „n‟ integers from a disc file that must contain some duplicate values and store them into an array. Perform the following operations on the array.
+/*1.3 Aim of the program: Write a program to read „n‟ integers from a disc file that must contain some duplicate values and store them into an array. Perform the following operations on the array.
 a) Find out the total number of duplicate elements.
 b) Find out the most repeating element in the array.
 Input: Enter how many numbers you want to read from file: 15

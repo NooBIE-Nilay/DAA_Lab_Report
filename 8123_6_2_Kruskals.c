@@ -131,9 +131,11 @@ void kruskal_123(Edge_123 edges_123[], int n, int m)
 int main()
 {
     int n, m;
+    printf("Enter the Number of Vertices and Edges: ");
     scanf("%d %d", &n, &m);
 
     Edge_123 *edges_123 = (Edge_123 *)malloc(m * sizeof(Edge_123));
+    printf("Enter the Edges and Weights in the order \n[vertex1 vertex2 weight]:\n");
     for (int i = 0; i < m; ++i)
     {
         scanf("%d %d %d", &edges_123[i].u, &edges_123[i].v, &edges_123[i].w);
